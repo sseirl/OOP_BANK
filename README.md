@@ -42,3 +42,9 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <URL>
+
+## Run program:
+python main.py
+
+Author
+Ainuru Aidarbekovna – Python student
